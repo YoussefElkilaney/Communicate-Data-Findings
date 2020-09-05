@@ -1,5 +1,4 @@
 # Prosper Loan Data Analysis 
-### by Youssef Kamal
 
 
 ## Dataset 
