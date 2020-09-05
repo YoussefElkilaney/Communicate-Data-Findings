@@ -16,5 +16,6 @@
 
 
 ## Key Insights for Presentation
-- Analyzing BorrowerAPR / Rate change over time, and how Loan Status is ditributed. Then BorrowerAPR vs Loan Original Amount over Loan Status.
-- Discovering how Loan Original Amount affects various features, and if, overall, this feature could contribute towards in-depth explore.
+Analyzing BorrowerAPR / Rate change over time, and how Loan Status is ditributed. Then BorrowerAPR vs Loan Original Amount over Loan Status.  
+
+Discovering how Loan Original Amount affects various features, and if, overall, this feature could contribute towards in-depth explore.
