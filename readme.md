@@ -3,7 +3,7 @@
 
 ## Dataset 
 
-**This Dataset is US Loan Prosper Dataset. There're many features, among which a few are selected for this investigation. This dataset is from Aug 2009 to March 2014. It has 100k+ records, covering most Occupations, states, Interest rates, etc.**
+This Dataset is US Loan Prosper Dataset. There're many features, among which a few are selected for this investigation. This dataset is from Aug 2009 to March 2014. It has 100k+ records, covering most Occupations, states, Interest rates, etc.
 
 
 ## Summary of Findings
